@@ -3,3 +3,5 @@
 
 elasticsearch==7.13.3
 elasticsearch-dsl==7.4.0
+
+flaskoidc>=1.0.0

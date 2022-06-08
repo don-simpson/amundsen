@@ -6,3 +6,8 @@ neotime==1.7.1
 apache_atlas==0.0.11
 beaker>=1.10.0
 overrides==2.5
+
+gremlinpython==3.4.13
+amundsen-gremlin==0.0.13
+tornado<5.0,>=4.4.1
+flaskoidc>=1.0.0
